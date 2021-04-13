@@ -1,0 +1,23 @@
+Fake Company Names & Domains
+
+Test Domain 							-test.domain.com
+Hyper9									-hyper9.com
+roveIT							 		-roveit.com
+Cybernetics Networks					-cyberneticsnetworks.net
+Parker House Industries					-parker-house-ind.co.uk
+InterGen								-inter-gen.co.uk
+Aperture UK 							-aperture.co.uk
+Soylent Technologies					-soylent-tech.com
+Goop and Gloop Associates				-goop-and-gloop.co.uk
+Umbrella International					-umbrellaint.com
+Zeus and Sons							-zeus-and-sons.co.au
+Wales and Whales Ltd					-waleswhales.co.uk
+Butterscotch LLC						-butterscotch.co.za
+Schmaw Ball PLC							-SB.com
+Thunder Brothers						-thunderbros.uk
+Barking Pets co.						-barkingpets.co
+UnGem									-UnGem.com
+Pigeon Catering Co. New York			-pigeon-catering.com
+CTRLnow									-ctrlnow.com
+Acme									-acme.org
+Grunnings Industrial					-grunnings-ind.co.uk
